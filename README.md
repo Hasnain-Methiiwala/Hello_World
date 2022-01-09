@@ -5,3 +5,6 @@ This Is my First file on git hub
 I am following the freecodecamp tutorial
 
 This is the first change
+
+I am editing this file in Visual Studio Code
+
